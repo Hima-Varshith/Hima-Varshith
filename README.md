@@ -3,20 +3,32 @@
 
 ---
 
-### GitHub Stats
+### 🧭 GitHub Stats
 
-<p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=Hima-Varshith&show_icons=true&theme=tokyonight&hide_border=true" 
-       alt="Hima-Varshith's GitHub stats" 
-       width="48%" 
-  />
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hima-Varshith&layout=compact&theme=tokyonight&hide_border=true" 
-       alt="Top Languages" 
-       width="48%" 
-  />
-</p>
+<div align="center">
+  <a href="https://github.com/Hima-Varshith">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Hima-Varshith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+      alt="GitHub Stats" 
+      height="180em"
+    />
+  </a>
+  <a href="https://github.com/Hima-Varshith">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hima-Varshith&layout=compact&theme=tokyonight&hide_border=true" 
+      alt="Top Languages" 
+      height="180em"
+    />
+  </a>
+</div>
+
+---
+
+### 🌱 About Me
+- 🎓 MS in Computer Science at **University of Colorado Boulder**  
+- 💻 SWE Intern @ **Arista Networks (Summer 2026)**  
+- 🧠 Interests: Data Engineering, AI Systems, and Scalable Backend Design  
+- ✨ Always learning, building, and exploring new technologies  
 
 ---
 
