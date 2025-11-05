@@ -22,13 +22,3 @@
 </div>
 
 ---
-
-### 📫 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/himavarshith" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:himavarshith@example.com">
-    <img src="https://img.shields.io/badge/Email-white?style=flat&logo=gmail" />
-  </a>
-</p>
