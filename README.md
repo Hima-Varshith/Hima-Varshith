@@ -1,11 +1,9 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Hima Varshith Reddy Paduru</h1>
 <h3 align="center">MSCS @ University of Colorado Boulder | SWE Intern @ Arista Networks | Ex-Software Engineer @ Visa</h3>
 
 ---
 
-### 🧭 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img 
@@ -19,14 +17,6 @@
        width="48%" 
   />
 </p>
-
----
-
-### 🌱 About Me
-- 🎓 MS in Computer Science at **University of Colorado Boulder**  
-- 💻 SWE Intern @ **Arista Networks (Summer 2026)**  
-- 🧠 Interests: Data Engineering, AI Systems, and Scalable Backend Design  
-- ✨ Always learning, building, and exploring new technologies  
 
 ---
 
