@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hima Varshith Reddy Paduru</h1>
 
 ---
-
 ### GitHub Stats
 
 <div align="center">
@@ -20,5 +19,4 @@
     />
   </a>
 </div>
-
 ---
