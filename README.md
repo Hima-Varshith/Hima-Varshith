@@ -8,21 +8,21 @@
 - 📚 Currently pursuing my M.S. in Computer Science at the University of Colorado Boulder
 
 ---
-
 ### GitHub Activity
 
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Hima-Varshith&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</div>
-
-### Languages
-
-<div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hima-Varshith&theme=tokyonight"
-    alt="Languages by Repository"
-  />
-</div>
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://streak-stats.demolab.com?user=Hima-Varshith&theme=tokyonight&hide_border=true"
+        alt="GitHub Streak"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hima-Varshith&theme=tokyonight"
+        alt="Languages Used by Repository"
+      />
+    </td>
+  </tr>
+</table>
