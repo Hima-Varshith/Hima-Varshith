@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hima Varshith Reddy Paduru</h1>
+<h1 align="center">Hi 👋, I'm Hima Varshith</h1>
 
 ### About Me
 
