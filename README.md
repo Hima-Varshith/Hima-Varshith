@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hima Varshith Reddy Paduru</h1>
 
----
-
 ### About Me
 
 - 💻 Experience across backend engineering, fintech, distributed systems, data engineering, and AI
