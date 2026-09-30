@@ -17,3 +17,12 @@
     alt="GitHub Streak"
   />
 </div>
+
+### Languages
+
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hima-Varshith&theme=tokyonight"
+    alt="Languages by Repository"
+  />
+</div>
