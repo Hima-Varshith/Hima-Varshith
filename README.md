@@ -26,3 +26,12 @@
     </td>
   </tr>
 </table>
+
+---
+### Tech Stack
+
+**Languages:** C++, Java, Python, Scala, TypeScript, JavaScript, SQL  
+**Backend & APIs:** Spring Boot, FastAPI, Django, REST APIs, GraphQL, Microservices  
+**Data & Messaging:** PostgreSQL, MongoDB, Redis, DynamoDB, Spark, Databricks, Airflow, Kafka, RabbitMQ  
+**AI/ML:** PyTorch, Scikit-learn, LLMs, RAG, Embeddings, Vector Search, Azure OpenAI  
+**Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, GitHub Actions, Jenkins, CI/CD, Datadog
