@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hima Varshith</h1>
 
 ### About Me
-
-- 💻 Experience across backend engineering, fintech, distributed systems, data engineering, and AI
-- 🧠 Strong interest in C++, Data Structures & Algorithms, and problem solving
-- 🔍 Curious about how systems work and always open to learning the right tools for the problem
-- 🎨 I enjoy UI/UX and care about how solutions are designed and presented
+- 💻 Experience across backend engineering, fintech, distributed systems, databases, data engineering, and AI/ML
+- 🧠 Strong foundation in C++, Data Structures & Algorithms, system design, and problem solving
+- 🔍 Interested in systems from both technical and business perspectives, and open to learning the right tools for the problem
+- 🎨 I enjoy creating clean, modern, and intuitive UI/UX, with a strong focus on presentation and user experience
 - 📚 Currently pursuing my M.S. in Computer Science at the University of Colorado Boulder
 
 ---
