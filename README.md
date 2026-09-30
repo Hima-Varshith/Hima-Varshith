@@ -2,7 +2,7 @@
 
 ### About Me
 - 💻 Experience across backend engineering, fintech, distributed systems, databases, data engineering, and AI/ML
-- 🧠 Strong foundation in C++, Data Structures & Algorithms, system design, and problem solving
+- 🧠 Strong foundation in C++, Data Structures, Algorithms, System design, and Problem solving
 - 🔍 Interested in systems from both technical and business perspectives, and open to learning the right tools for the problem
 - 🎨 I enjoy creating clean, modern, and intuitive UI/UX, with a strong focus on presentation and user experience
 - 📚 Currently pursuing my M.S. in Computer Science at the University of Colorado Boulder
